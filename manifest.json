@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Duolingo Skills Wrapper",
+    "version": "1.0",
+    "description": "A simple link wrapper that allows you to access old skills from join.duolingo.com",
+
+    "background": {
+        "scripts": ["app.js", "onfinish.js"],
+        "persistent": true
+    },
+    "icons": { 
+        "16": "i16.png",
+        "48": "i48.png",
+        "128": "i128.png" },
+    "permissions": [
+        "*://*.duolingo.com/*",
+        "tabs"  
+    ]
+ }
