@@ -2,6 +2,7 @@
 
 Simple link wrapper to access skills from older versions of duolingo /
 Оборачивает ссылки для доступа к урокам через более старые версии дуолинго
+
 **This is an extension for Chrome / Это расширение для Chrome**
 
 - Works only with join.duolingo.com / Только для работы через join.duolingo.com
